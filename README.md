@@ -12,7 +12,7 @@ This repository includes several projects where I implemented and solved differe
 ### 📂 **Projects**
 Each subfolder corresponds to a specific exam problem and contains a `README.md` explaining the problem, the implementation approach, and how to run the code.
 
-1. **[Build Basic Generative Adversarial Networks (GANs)]('./GAN/Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)')**  
+1. **[Build Basic Generative Adversarial Networks (GANs)]('./Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)')**  
   
 
 
