@@ -36,8 +36,7 @@ Install PyTorch, Torchvision, and other required libraries:
 bash
 Copy code
 pip install torch torchvision matplotlib
-Run the Jupyter Notebook:
-Open and run the provided Jupyter Notebook to start the training process and visualize the results:
+
 
 📊 Results
 Throughout the training process, images of the generated digits are visualized to track the GAN’s progress. The DCGAN learns to produce synthetic handwritten digits that closely resemble the real ones. The quality of these generated digits improves with more epochs of training.
