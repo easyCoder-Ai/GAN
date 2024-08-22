@@ -24,18 +24,19 @@ The objective of this project is to implement a Deep Convolutional GAN (DCGAN), 
 - Matplotlib: To visualize training progress and generated images.
 
 🚀 How to Run the Code
-Clone the Repository:
+1. # Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/geasyCoder-Ai/GAN.git
-cd GAN
-Install Dependencies:
-Install PyTorch, Torchvision, and other required libraries:
+   git clone https://github.com/easyCoder-Ai/GAN.git
+   cd Deep Convolutional GAN (DCGAN)
 
-bash
-Copy code
-pip install torch torchvision matplotlib
+2. # Install Dependencies:
+    - Make sure you have PyTorch and other necessary libraries installed:
+    
+            pip install -r requirements.txt -e <your current environment>
+
+3. # Run 
+
+    python3 main.py
 
 
 📊 Results

@@ -23,17 +23,20 @@ The goal of this project is to implement SN-GAN and understand how spectral norm
 - Matplotlib: For visualizing training progress and generated images.
 
 🚀 How to Run the Code
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/yourusername/geasyCoder-Ai/GAN.git
 
-Install Dependencies
-Ensure you have Python installed, then install the required libraries:
+1. # Clone the Repository:
 
-bash
-Copy code
-pip install torch torchvision matplotlib
+   git clone https://github.com/easyCoder-Ai/GAN.git
+   cd Spectrally Normalized Generative Adversarial Networks (SN-GAN)
+
+2. # Install Dependencies:
+    - Make sure you have PyTorch and other necessary libraries installed:
+    
+            pip install -r requirements.txt -e <your current environment>
+
+3. # Run 
+
+    python3 main.py
 
 
 📊 Results

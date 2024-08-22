@@ -22,15 +22,21 @@ Specifically, the project focuses on:
 
 
 ## 🚀 **How to Run the Code**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/geasyCoder-Ai/GAN.git
-   cd GAN
+1. # Clone the Repository:
 
-2. ##Install Dependencies:
-    Make sure you have PyTorch and other necessary libraries installed:
+   git clone https://github.com/easyCoder-Ai/GAN.git
+   cd Your First GAN
+
+2. # Install Dependencies:
+    - Make sure you have PyTorch and other necessary libraries installed:
     
-    pip install torch torchvision matplotlib
+            pip install -r requirements.txt -e <your current environment>
 
-🎯 Results
+3. # Run 
+
+    python3 main.py
+
+
+## 🎯 **Results**
+ 
 Throughout the training process, the generated images of digits are visualized to track the GAN's progress. After successful training, the GAN can generate synthetic handwritten digits that closely resemble real ones.
