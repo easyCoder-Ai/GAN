@@ -28,7 +28,7 @@ The objective of this project is to implement a Deep Convolutional GAN (DCGAN), 
     - You can receive codes with:
         ```bash
         git clone https://github.com/easyCoder-Ai/GAN.git
-        cd Deep Convolutional GAN (DCGAN)
+        cd Build Basic Generative Adversarial Networks (GANs)/Deep Convolutional GAN (DCGAN)
 
 2. Install Dependencies:
     - Make sure you have PyTorch and other necessary libraries installed:

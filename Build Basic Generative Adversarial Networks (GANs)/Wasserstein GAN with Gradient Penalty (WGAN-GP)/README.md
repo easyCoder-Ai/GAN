@@ -29,7 +29,7 @@ The objective of this project is to implement a more stable version of a Generat
     - You can receive codes with:
         ```bash
         git clone https://github.com/easyCoder-Ai/GAN.git
-        cd Wasserstein GAN with Gradient Penalty (WGAN-GP)
+        cd Build Basic Generative Adversarial Networks (GANs)/Wasserstein GAN with Gradient Penalty (WGAN-GP)
 
 2. Install Dependencies:
     - Make sure you have PyTorch and other necessary libraries installed:

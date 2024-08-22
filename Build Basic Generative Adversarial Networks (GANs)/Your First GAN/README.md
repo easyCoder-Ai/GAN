@@ -26,7 +26,7 @@ Specifically, the project focuses on:
     - You can receive codes with:
         ```bash
         git clone https://github.com/easyCoder-Ai/GAN.git
-        cd Your First GAN
+        cd Build Basic Generative Adversarial Networks (GANs)/Your First GAN
 
 2. Install Dependencies:
     - Make sure you have PyTorch and other necessary libraries installed:

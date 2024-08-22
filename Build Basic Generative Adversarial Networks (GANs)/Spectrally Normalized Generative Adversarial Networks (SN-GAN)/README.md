@@ -27,7 +27,7 @@ The goal of this project is to implement SN-GAN and understand how spectral norm
     - You can receive codes with:
         ```bash
         git clone https://github.com/easyCoder-Ai/GAN.git
-        cd Spectrally Normalized Generative Adversarial Networks (SN-GAN)
+        cd Build Basic Generative Adversarial Networks (GANs)/Spectrally Normalized Generative Adversarial Networks (SN-GAN)
 
 2. Install Dependencies:
     - Make sure you have PyTorch and other necessary libraries installed:
