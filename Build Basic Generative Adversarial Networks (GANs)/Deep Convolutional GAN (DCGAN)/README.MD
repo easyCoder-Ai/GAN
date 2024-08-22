@@ -38,8 +38,9 @@ The objective of this project is to implement a Deep Convolutional GAN (DCGAN), 
 3.  Run 
 
     - You can run the code with:
-            ```bash
-            python3 main.py
+    
+        ```bash
+        python3 main.py
 
 
 📊 Results
