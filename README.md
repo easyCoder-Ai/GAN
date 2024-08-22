@@ -22,20 +22,34 @@ Each subfolder corresponds to a specific exam problem and contains a `README.md`
 
 
 ## 🚀 **How to Use This Repository**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/geasyCoder-Ai/GAN.git
-   cd GAN
+1.  Clone the Repository:
+    - You can receive codes with:
+        ```bash
+        git clone https://github.com/easyCoder-Ai/GAN.git
+        cd <each project on this repository>
 
-📖 Learning Objectives
+2. Install Dependencies:
+    - Make sure you have PyTorch and other necessary libraries installed:
+    
+            pip install -r requirements.txt -e <your current environment>
+
+3.  Run 
+
+    - You can run the code with:
+
+        ```bash
+        python3 main.py
+
+
+## 📖 **Learning Objectives**
 Through these exam problems, I worked on several key learning objectives, including:
 
-    Designing and implementing GANs from scratch.
-    Using GANs for data generation tasks.
-    Fine-tuning models to generate high-quality synthetic data.
-    Visualizing the progression of GAN training.
+Designing and implementing GANs from scratch.
+Using GANs for data generation tasks.
+Fine-tuning models to generate high-quality synthetic data.
+Visualizing the progression of GAN training.
 
-📩 Contact
+## 📩 **Contact**
 Feel free to reach out to me if you have any questions or suggestions at 
 [seyedali1.hosseini@polimi.it].
 
