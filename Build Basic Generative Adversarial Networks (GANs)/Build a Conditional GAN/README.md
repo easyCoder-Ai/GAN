@@ -37,3 +37,10 @@ Visualize Generation: Analyze and visualize how the cGAN generates specific digi
         ```bash
         python3 main.py
 
+## 📊 **Results**
+As the training progresses, the Conditional GAN will generate images of digits conditioned on the input class. The images are visualized at different stages to observe how the quality and accuracy of the generated digits improve over time. The generator becomes better at producing digits that match the specified class while maintaining variety due to the noise vector.
+
+## 💡 **Key Takeaways**
+- Conditioning Enhances Control: By conditioning the GAN on a specific class, you gain control over the output, allowing you to generate specific types of images on demand.
+- Vector Interplay: The class vector determines the digit to be generated, while the noise vector adds variability, resulting in diverse but class-specific images.
+- GAN Flexibility: The principles learned here can be applied to generate other types of conditioned images, such as animals or faces, by adjusting the input data.
