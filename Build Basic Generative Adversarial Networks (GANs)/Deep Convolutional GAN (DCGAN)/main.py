@@ -13,7 +13,7 @@ transform = transforms.Compose([
 ])
 
 dataloader = DataLoader(
-    MNIST('.', download=False, transform=transform),
+    MNIST('.', download=True, transform=transform),
     batch_size=int(os.getenv('BATCH_SIZE')),
     shuffle=True)
 

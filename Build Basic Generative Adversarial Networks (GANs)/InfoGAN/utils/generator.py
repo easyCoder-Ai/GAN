@@ -45,6 +45,7 @@ class Generator(nn.Module):
                 nn.Tanh(),
             )
 
+
     def forward(self, noise):
         '''
         Function for completing a forward pass of the generator: Given a noise tensor, 

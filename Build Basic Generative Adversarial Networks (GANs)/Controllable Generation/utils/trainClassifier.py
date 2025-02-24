@@ -66,4 +66,3 @@ def train_classifier(filename):
 
 # Uncomment the last line to train your own classfier - this line will not work in Coursera.
 # If you'd like to do this, you'll have to download it and run it, ideally using a GPU 
-# train_classifier("filename")
