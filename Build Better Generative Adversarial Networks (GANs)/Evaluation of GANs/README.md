@@ -7,8 +7,8 @@ This project was completed as part of a Coursera course on GANs, and I am publis
 
 ## 🎯 **Learning Objectives**
 By working through this project, I aimed to:
-✅ Understand the challenges associated with evaluating GANs.
-✅ Implement the Fréchet Inception Distance (FID) to measure GAN performance.
+✅ Understand the challenges associated with evaluating GANs.\n
+✅ Implement the Fréchet Inception Distance (FID) to measure GAN performance.\n
 ✅ Analyze how FID helps alleviate some common issues in GAN evaluation.
 
 ## 💡 **Why is GAN Evaluation Difficult?**
