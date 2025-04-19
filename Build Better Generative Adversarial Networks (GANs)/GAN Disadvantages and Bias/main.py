@@ -94,3 +94,10 @@ plt.show()
 
 ############ Quantification
 
+relevant_indices, highest_covariances = get_top_covariances(classification_changes, target_indices, top_n=10)
+print(relevant_indices)
+assert relevant_indices[9] == 34
+assert len(relevant_indices) == 10
+assert highest_covariances[8] - (-1.2404) < 1e-3
+for index, covariance in zip(relevant_indices, highest_covariances):
+    print(f"{feature_names[index]}  {covariance:f}")
